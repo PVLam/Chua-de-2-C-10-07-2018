@@ -41,6 +41,6 @@ int main()
 	fout.close();
 	for(int i = 0; i<n; i++)
 	{
-		tap[n]->Print();
+		tap[i]->Print();
 	}
 }
